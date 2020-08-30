@@ -1,0 +1,16 @@
+@font-face {
+  font-family: Fs;
+  src: url("./fonts/FSRenaissanceProRg.TTF");
+}
+
+@font-face {
+  font-family: Futura;
+  font-weight: 400;
+  src: url("./fonts/futura/Futura Book font.ttf");
+}
+
+@font-face {
+  font-family: Futura;
+  font-weight: 500;
+  src: url("./fonts/futura/futura medium bt.ttf");
+}

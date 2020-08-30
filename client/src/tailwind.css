@@ -1,0 +1,21 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+.height-20rem {
+  height: 20rem;
+}
+
+.height-22rem {
+  height: 22rem;
+}
+
+.height-24rem {
+  height: 24rem;
+}
+
+.height-28rem {
+  height: 28rem;
+}
